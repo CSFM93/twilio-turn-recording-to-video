@@ -1,1 +1,5 @@
+/recordings
+/videos/*
+!/videos/spinningRecord.mp4
+/venv
 
